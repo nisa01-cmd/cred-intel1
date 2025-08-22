@@ -94,7 +94,7 @@ Our solution: **CredTech** → a real-time, explainable, analyst-friendly platfo
 ## 📂 Project Structure
 
 ```
-cred-intel/
+cred-intel1/
 │── README.md             # Documentation
 │── requirements.txt      # Dependencies
 │── .env                  # Environment variables (DB URL, API keys)
@@ -130,8 +130,8 @@ cred-intel/
 ### 1️⃣ Clone Repo
 
 ```bash
-git clone https://github.com/firewolf/cred-intel.git
-cd cred-intel
+git clone https://github.com/firewolf/cred-intel1.git
+cd cred-intel1
 ```
 
 ### 2️⃣ Install Requirements
